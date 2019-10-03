@@ -1,0 +1,6 @@
+*.class
+persistence.xml
+*.project
+*.classpath
+*.settings
+target
